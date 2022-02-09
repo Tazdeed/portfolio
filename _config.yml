@@ -1,8 +1,8 @@
 # Basic Options
 title: "Hey, I'm Tazdeed Chowdhury"
-author: "Tazdeedul Chowowdhury"
-email: "tazdeed1@gmail.com"
-description: "Thanks for dropping by, I am third year cybersecurity student and this is my portfolio."
+author: Tazdeedul Chowowdhury
+email: tazdeed1@gmail.com
+description: Thanks for dropping by, I am third year cybersecurity student and this is my portfolio.
 
 show_excerpts: "false" # set to true to show excerpts on the homepage
 
@@ -12,8 +12,7 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Generate Social Links in Footer
-social_links:
-     linkedin: tazdeedul-chowdhury
+linkedin_username: tazdeedul-chowdhury
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
