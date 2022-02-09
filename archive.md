@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ARCHIVE
+title: Archive
 ---
 
 This is an about page about this awesome site.
