@@ -1,8 +1,7 @@
 # Basic Options
 title: "Hey, I'm Tazdeed Chowdhury"
-author: 
-  name: "Tazdeedul Chowowdhury"
-  email: "tazdeed1@gmail.com"
+author: "Tazdeedul Chowowdhury"
+email: "tazdeed1@gmail.com"
 description: "Thanks for dropping by, I am third year cybersecurity student and this is my portfolio."
 
 show_excerpts: "false" # set to true to show excerpts on the homepage
