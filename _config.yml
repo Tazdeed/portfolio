@@ -1,12 +1,59 @@
-# basic options
+# Basic Options
 title: "Hey, I'm Tazdeed Chowdhury"
-author: Tazdeed Chowowdhury
-email: tazdeed1@gmail.com
-description: pepe wonderful
-linkedin_username: tazdeedchowdhury
-github_username: tazdeed
+author: 
+  name: Tazdeedul Chowowdhury
+  email: tazdeed1@gmail.com
+description: Thanks for dropping by, I am third year cybersecurity student and this is my portfolio.
 
-# Build Settings
-markdown: kramdown
+show_excerpts: false # set to true to show excerpts on the homepage
+
+# Minima Date Format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+# Generate Social Links in Footer
+  social_links:
+    # twitter: test
+    github:  tazdeed
+    # devto: test
+    # dribbble: test
+    # facebook: test
+    # flickr:   test
+    # instagram: test
+    linkedin: tazdeedul-chowdhury
+    # pinterest: test
+    # youtube: test
+    # youtube_channel: test
+    # youtube_channel_name: test
+    # telegram: test
+    # googleplus: +test
+    # microdotblog: test
+    # keybase: test
+
+    # Mastodon instances
+    # mastodon:
+    # - username: test
+    #   instance: example.com
+    # - username: test
+    #   instance: example.com
+
+    # GitLab instances
+    # gitlab:
+    # - username: test
+    #   instance: example.com
+    # - username: test
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+#header_pages:
+# - about.md
+
+# Build settings
 theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
 
