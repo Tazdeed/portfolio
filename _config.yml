@@ -12,7 +12,8 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Generate Social Links in Footer
-linkedin_username: tazdeedul-chowdhury
+linkedin: tazdeedul-chowdhury
+github: tazdeed
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
