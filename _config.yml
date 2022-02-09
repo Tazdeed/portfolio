@@ -12,37 +12,8 @@ minima:
   date_format: "%b %-d, %Y"
 
 # Generate Social Links in Footer
-  social_links:
-    # twitter: test
-    github:  "tazdeed"
-    # devto: test
-    # dribbble: test
-    # facebook: test
-    # flickr:   test
-    # instagram: test
-    linkedin: "tazdeedul-chowdhury"
-    # pinterest: test
-    # youtube: test
-    # youtube_channel: test
-    # youtube_channel_name: test
-    # telegram: test
-    # googleplus: +test
-    # microdotblog: test
-    # keybase: test
-
-    # Mastodon instances
-    # mastodon:
-    # - username: test
-    #   instance: example.com
-    # - username: test
-    #   instance: example.com
-
-    # GitLab instances
-    # gitlab:
-    # - username: test
-    #   instance: example.com
-    # - username: test
-    #   instance: example.com
+social_links:
+     linkedin: tazdeedul-chowdhury
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
