@@ -1,0 +1,12 @@
+# basic options
+title: test test test
+author: GitHub User
+email: tazdeed1@gmail.com
+description: pepe wonderful
+linkedin_username: tazdeedchowdhury
+github_username: tazdeed
+
+# Build Settings
+markdown: kramdown
+theme: minima
+
